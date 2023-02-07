@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um projeto para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://yadons.github.io/First-Steps/Habits)
+- [Visite o projeto online](https://yadons.github.io/Baby-Steps/Habits)
 
 ## 🔖 Layout
 
